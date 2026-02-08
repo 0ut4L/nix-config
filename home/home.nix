@@ -104,6 +104,7 @@
         ruff
         sbt
         scala-cli
+        socat
         stow
         sqlite
         tldr

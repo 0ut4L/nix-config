@@ -2,6 +2,7 @@
   description = "Home configuration";
 
   inputs = {
+
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
 
     flake-utils.url = "github:numtide/flake-utils";
@@ -19,6 +20,7 @@
 
     dummy-app.url = "github:ramytanios/scala-app-template";
     dummy-app.inputs.nixpkgs.follows = "nixpkgs";
+
   };
 
   outputs =
