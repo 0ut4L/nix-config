@@ -71,6 +71,7 @@
         #   echo "Hello, ${config.home.username}!"
         # '')
         bloop
+        claude-code
         coursier
         csvlens
         duf
