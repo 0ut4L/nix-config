@@ -93,6 +93,7 @@
         ncdu
         nix-tree
         nodejs
+        ollama
         opencode
         podman
         postgresql
